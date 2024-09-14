@@ -1,4 +1,3 @@
-# Webtech-assignment-1
 <h1>AppleTech Direct</h1>
 
 https://sidagl.github.io/Webtech-assignment-1/
