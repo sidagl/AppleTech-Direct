@@ -1,6 +1,6 @@
 <h1>AppleTech Direct</h1>
 
-https://sidagl.github.io/Webtech-assignment-1/
+https://sidagl.github.io/AppleTech-Direct/
 
 Our platform offers a comprehensive selection of premium Apple products, including the latest iPhone 14, Apple Watches, and AirPods, ensuring that customers have access to cutting-edge technology.
 
